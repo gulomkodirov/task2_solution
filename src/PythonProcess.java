@@ -1,6 +1,11 @@
 import java.util.*;
 import java.io.*;
 
+/**
+ * The 'PythonProcess' class is the "main" class, which solve the task
+ * @author Nurullokhon Gulomkodirov
+ * @version 11.0
+ */
 class Stream extends Thread {
     private final InputStream is;
     private final String type;
